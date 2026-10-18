@@ -1,0 +1,15 @@
+{
+  "name": "concord",
+  "version": "0.1.0",
+  "description": "Self-hosted Discord-style chat with end-to-end encryption. Zero dependencies.",
+  "type": "module",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
