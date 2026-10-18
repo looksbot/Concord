@@ -141,4 +141,4 @@ Concord contains no Discord code, names, logos, or assets. "Discord-style" refer
 
 ## License
 
-MIT — do whatever you want, but don't blame us if your secrets leak.
+[MIT](LICENSE) — do whatever you want, but don't blame us if your secrets leak.
